@@ -35,12 +35,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Now targets Spigot API 1.15.2
 - Now targets OpenJDK 14
 
-### Removed
-
-### Fixed
-
-### Security
-
 ## [1.0.1] - 2018-07-15
 
 Last version without a changelog.
