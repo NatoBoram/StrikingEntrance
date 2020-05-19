@@ -1,6 +1,8 @@
-package com.natoboram.westerntea;
+package com.natoboram.spigot.strikingentrance;
+
 import org.bukkit.plugin.java.JavaPlugin;
-public class Effects extends JavaPlugin {
+
+public class StrikingEntrance extends JavaPlugin {
 	@Override
 	public void onEnable() {
 		// Enable Listeners

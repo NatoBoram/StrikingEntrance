@@ -1,3 +1,11 @@
-name: WesternTeaEffects
-main: com.natoboram.westerntea.Effects
-version: 1.0.1
+name: StrikingEntrance
+main: com.natoboram.spigot.strikingentrance.StrikingEntrance
+version: 1.2.0
+author: NatoBoram
+description: Adds some lightning bolts for a striking Minecraft experience.
+api:
+    - "1.12"
+    - "1.13"
+    - "1.14"
+    - "1.15"
+api-version: "1.15"
