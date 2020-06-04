@@ -1,6 +1,6 @@
 name: StrikingEntrance
 main: com.natoboram.spigot.strikingentrance.StrikingEntrance
-version: 1.2.0
+version: 1.2.1
 author: NatoBoram
 description: Adds some lightning bolts for a striking Minecraft experience.
 api:
