@@ -8,8 +8,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Added
 
-- [bStats](https://bstats.org/plugin/bukkit/_/7737)
-
 ### Changed
 
 ### Deprecated
@@ -19,6 +17,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ### Fixed
 
 ### Security
+
+## [1.2.1] - 2020-06-03
+
+### Added
+
+- [bStats](https://bstats.org/plugin/bukkit/_/7737)
 
 ## [1.2.0] - 2020-05-19
 
