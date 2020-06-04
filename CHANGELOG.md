@@ -18,6 +18,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ### Security
 
+## [1.2.1] - 2020-06-03
+
+### Added
+
+- [bStats](https://bstats.org/plugin/bukkit/_/7737)
+
 ## [1.2.0] - 2020-05-19
 
 ### Added
@@ -34,12 +40,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Now targets Minecraft 1.15
 - Now targets Spigot API 1.15.2
 - Now targets OpenJDK 14
-
-### Removed
-
-### Fixed
-
-### Security
 
 ## [1.0.1] - 2018-07-15
 
